@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import { Product } from "@/types/product";
 import ProductCard from "@/components/organisms/ProductCard";
-import { Skeleton } from "@/components/ui/skeleton";
 import ProductSkeleton from "../molecules/skeleton";
 
 interface ProductGridProps {
